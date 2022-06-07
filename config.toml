@@ -1,0 +1,4 @@
+baseURL = 'https://lkreidberg.github.io/'
+languageCode = 'en-us'
+title = 'Laura Kreidberg'
+theme = 'hugo-book'
