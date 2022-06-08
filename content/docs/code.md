@@ -16,11 +16,11 @@ an end-to-end HST/WFC3 data reduction and analysis pipeline
 
 ## Light Curve Models
 
-[batman](http://lkreidberg.github.io/batman) \
- fast transit light curve models \
-[Kreidberg 2015](https://ui.adsabs.harvard.edu/abs/2015PASP..127.1161K/abstract)
+[batman](http://lkreidberg.github.io/batman) 
+([Kreidberg 2015](https://ui.adsabs.harvard.edu/abs/2015PASP..127.1161K/abstract)) \
+ fast transit light curve models 
 
-[spiderman](https://spiderman.readthedocs.io/en/latest/) \ 
-phase curve models for any planet brightness map \
-[Louden \& Kreidberg 2019](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.2613L/abstract)
+[spiderman](https://spiderman.readthedocs.io/en/latest/) 
+([Louden \& Kreidberg 2019](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.2613L/abstract)) \
+ phase curve models for any planet brightness map 
 
