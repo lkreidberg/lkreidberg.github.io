@@ -14,7 +14,7 @@ I'm an enthusiastic advocate for open-source software.  Below are several projec
 
 ## Light Curve Models
 
-[batman](https://lweb.cfa.harvard.edu/~lkreidberg/batman/) | fast transit light curve models ([Kreidberg 2015](https://ui.adsabs.harvard.edu/abs/2015PASP..127.1161K/abstract)) 
+[batman](http://lkreidberg.github.io/batman) | fast transit light curve models ([Kreidberg 2015](https://ui.adsabs.harvard.edu/abs/2015PASP..127.1161K/abstract)) 
 
 [spiderman](https://spiderman.readthedocs.io/en/latest/) | phase curve models for any planet brightness map ([Louden \& Kreidberg 2019](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.2613L/abstract))
 
