@@ -24,7 +24,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ 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 }}
+          personal_token: ${{ secrets.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 }}
           external_repository: lkreidberg/lkreidberg.github.io
           publish_dir: ./public
           #   keep_files: true
