@@ -10,18 +10,13 @@ Now that [over 5000 exoplanets](https://exoplanetarchive.ipac.caltech.edu/exopla
 
 ## Highlights 
 
-_Likely no atmosphere on the hot rocky exoplanet LHS 3844b_ [Kreidberg et al. 2019 (Nature)](https://ui.adsabs.harvard.edu/abs/2019Natur.573...87K/abstract) \
-The first characterization of the rocky surface of a terrestrial exoplanet. 
+The first characterization of the rocky surface of a terrestrial exoplanet ([Kreidberg et al. 2019 (Nature)](https://ui.adsabs.harvard.edu/abs/2019Natur.573...87K/abstract)) \
+
+The first identification of dayside water dissociation in an ultra-hot Jupiter atmosphere ([Kreidberg et al. 2018 (AJ)](https://ui.adsabs.harvard.edu/abs/2018AJ....156...17K/abstract)) \
 
 
-_Phase-resolved spectroscopy of an ultra-hot Jupiter_ [Kreidberg et al. 2018 (AJ)](https://ui.adsabs.harvard.edu/abs/2018AJ....156...17K/abstract) \
-The first identification of dayside water dissociation in an ultra-hot Jupiter atmosphere.  
+A precise measurement of the water abundance for a hot Jupiter ([Kreidberg et al. 2014 (ApJL)](https://ui.adsabs.harvard.edu/abs/2014ApJ...793L..27K/abstract)) \
 
 
-_A precise water abundance measurement for the hot Jupiter WASP-43b_ [Kreidberg et al. 2014 (ApJL)]() \
-A precise measurement of the water abundance for a hot Jupiter. 
-
-
-_Clouds in the atmosphere of the sub-Neptune GJ 1214b_ [Kreidberg et al. 2014 (Nature)](https://ui.adsabs.harvard.edu/abs/2014Natur.505...69K/abstract) \
-A definitive detection of high-altitude condensates in the atmosphere of a sub-Neptune. 
+A definitive detection of high-altitude condensates in the atmosphere of a sub-Neptune ([Kreidberg et al. 2014 (Nature)](https://ui.adsabs.harvard.edu/abs/2014Natur.505...69K/abstract) 
 
