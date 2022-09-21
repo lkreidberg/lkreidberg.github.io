@@ -7,5 +7,4 @@ headless: true
 - [Code]({{< relref "/docs/code" >}})
 - [Group]({{< relref "/docs/group" >}})
 - [Research]({{< relref "/docs/research" >}})
-- [Ringberg]({{< relref "/docs/ringberg" >}})
 
