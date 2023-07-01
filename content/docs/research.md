@@ -11,7 +11,7 @@ Now that [over 5000 exoplanets](https://exoplanetarchive.ipac.caltech.edu/exopla
 ## Highlights 
 
 The first detection of thermal emission from a Venus analog exoplanet \ 
-[ -- Zieba, Kreidberg, et al. 2023 (Nature)](https://www.nature.com/articles/s41586-023-06232-z)
+[-- Zieba, Kreidberg, et al. 2023 (Nature)](https://www.nature.com/articles/s41586-023-06232-z)
 
 The first characterization of the rocky surface of a terrestrial exoplanet \
 [-- Kreidberg et al. 2019 (Nature)](https://ui.adsabs.harvard.edu/abs/2019Natur.573...87K/abstract)
