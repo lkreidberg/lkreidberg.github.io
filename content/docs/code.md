@@ -8,10 +8,12 @@ I'm an enthusiastic advocate for open-source software.  Below are several projec
 
 ## Data Reduction 
 
-[Eureka!](https://eurekadocs.readthedocs.io/en/latest/) \
+[Eureka!](https://eurekadocs.readthedocs.io/en/latest/) 
+([Bell et al. 2022](https://ui.adsabs.harvard.edu/abs/2022JOSS....7.4503B/abstract)) \
  an end-to-end JWST data reduction and analysis pipeline
 
-[pacman](https://pacmandocs.readthedocs.io/en/latest/) \
+[pacman](https://pacmandocs.readthedocs.io/en/latest/) 
+([Zieba et al. 2022](https://ui.adsabs.harvard.edu/abs/2022JOSS....7.4838Z/abstract)) \
 an end-to-end HST/WFC3 data reduction and analysis pipeline 
 
 ## Light Curve Models
