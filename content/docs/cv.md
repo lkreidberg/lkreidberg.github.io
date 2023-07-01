@@ -9,8 +9,8 @@ Click for full [pdf cv](https://www.mpia.de/5748322/Curriculum_Vitae_Kreidberg.p
 
 **Appointments**\
 _since 2020:_ Director, [APEx Department](https://www.mpia.de/institute/scientific-departments/atmospheric-physics-of-exoplanets), Max Planck Insitute for Astronomy \
-_since 2023:_ Professor | Heidelberg University
-_since 2022:_ Professor | Leiden University
+_since 2023:_ Professor | Heidelberg University \
+_since 2022:_ Professor | Leiden University \
 _2019 - 2020:_ Clay Fellow, Center for Astrophysics | Harvard and Smithsonian \
 _2016 - 2019:_ Junior Fellow, Society of Fellows, Harvard University \
 _2016 - 2019:_ ITC Fellow, Center for Astrophysics| Harvard and Smithsonian 
