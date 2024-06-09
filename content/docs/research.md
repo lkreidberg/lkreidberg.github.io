@@ -5,7 +5,7 @@ type: docs
 
 # Research
 
-Now that [over 5000 exoplanets](https://exoplanetarchive.ipac.caltech.edu/exoplanetplots/exo_dischist_cumulative.png) have been found, including many around bright, nearby stars, it is possible to begin studying their atmospheres in detail. In my work, I focus mainly on transiting planets that periodically pass in front of (and behind) their host stars. For these systems, it is possible to measure the atmospheres' chemical composition, cloud properties, and climate.  The Hubble and Spitzer Space Telescopes have been my tools of choice for many years, but I'm excited to see observing capability progress by leaps and bounds over the next decade, starting with the James Webb Space Telescope and continuing on to the next generation of ground-based telescopes by the end of the 2020s.
+Now that [over 5000 exoplanets](https://exoplanetarchive.ipac.caltech.edu/exoplanetplots/exo_dischist_cumulative.png) have been found, including many around bright, nearby stars, it is possible to begin studying their atmospheres in detail. In my work, I focus mainly on transiting planets that periodically pass in front of (and behind) their host stars. For these systems, it is possible to measure the atmospheres' chemical composition, cloud properties, and climate.  The Hubble and Spitzer Space Telescopes have been my tools of choice for many years, but I'm excited to see observing capability progress by leaps and bounds over the next decade, starting now with the James Webb Space Telescope and continuing on to the next generation of ground-based telescopes by the end of the 2020s.
 
 
 ## Highlights 
